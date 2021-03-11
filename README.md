@@ -5,7 +5,7 @@ improve outcome in the next campaign and also determine which of the individuals
 database have characteristics similar to the most profitable donors. By soliciting only these
 people, our client can spend less money on the solicitation effort and more money on charitable
 concerns.
-*Two datasets have been provided:
+* Two datasets have been provided:
   * A. Donor Raw Data: this is a historical data, containing previous donor details. Target B column,
       provides information whether they have donated in past campaign or not.
   * B. Prospective Donors: this is a list of new contact; your client is interested in reaching out to in
